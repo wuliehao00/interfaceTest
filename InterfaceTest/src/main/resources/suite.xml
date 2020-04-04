@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test">
+    <test name="login">
+        <classes>
+            <class name="com.hw.test.suite.LoginTest"></class>
+            <class name="com.hw.test.suite.pay"></class>
+        </classes>
+    </test>
+</suite>
